@@ -4,7 +4,7 @@ footer {
 footer a {
   text-align: center;
   margin: 0 15px;
-  color: #f16821;
+  color: #402a23;
 }
 .images-page {
   background-image: url(images/croissants.jpg);
@@ -25,4 +25,9 @@ h2 {
 .image-me {
   display: block;
   justify-content: center;
+}
+p,
+h1 {
+  color: #f16821;
+  margin-top: 40px;
 }
