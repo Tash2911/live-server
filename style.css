@@ -5,7 +5,13 @@ footer {
 footer a {
   text-align: center;
   margin: 0 15px;
-  color: #402a23;
+  color: #f16821;
+}
+
+.croissant-image {
+  display: block;
+  margin: auto;
+  border-radius: 15px;
 }
 
 .images-page {
@@ -28,10 +34,9 @@ h2 {
   text-align: center;
 }
 
-.image-me {
+#image-me {
   display: block;
-  margin: 50px auto;
-  text-align: center;
+  margin: 40px auto;
   border-radius: 10px;
 }
 
@@ -43,5 +48,5 @@ h1 {
 
 #email {
   display: block;
-  color: #402a23;
+  color: #f16821;
 }
