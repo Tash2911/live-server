@@ -1,0 +1,28 @@
+footer {
+  text-align: center;
+}
+footer a {
+  text-align: center;
+  margin: 0 15px;
+  color: #f16821;
+}
+.images-page {
+  background-image: url(images/croissants.jpg);
+}
+.footer-images a {
+  background-color: #fde9df;
+  padding: 10px 20px 10px 20px;
+  color: #402a23;
+}
+.footer-images {
+  margin-top: 150px;
+}
+h2 {
+  margin-top: 40px;
+  color: #402a23;
+  text-align: center;
+}
+.image-me {
+  display: block;
+  justify-content: center;
+}
